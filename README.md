@@ -1,5 +1,5 @@
 # MachineLearningProject_Connecttel
-ConnectTel enlisted our data science team to develop a machine learning-based customer churn prediction system. By analyzing customer data, we provided accurate churn forecasts, enabling targeted retention strategies. This proactive approach helps ConnectTel reduce churn, boost loyalty, and stay competitive in the telecom industry.
+Company_X enlisted our data science team to develop a machine learning-based customer churn prediction system. By analyzing customer data, we provided accurate churn forecasts, enabling targeted retention strategies. This proactive approach helps ConnectTel reduce churn, boost loyalty, and stay competitive in the telecom industry.
 
 ![image](https://github.com/user-attachments/assets/261cacee-0cd6-4f88-ad73-4d61bbd3243a)
 
